@@ -1,0 +1,37 @@
+
+
+{
+	"NO_CHILD_WIDGETS": {
+
+    "__embedded-dart__": null,
+    "Text": null,
+    "TextField": null,
+    "TextFormField": null, 
+    "AssetImage": null,
+    "Icon": null,
+    "IconButton": "icon", 
+    "NetworkImage": null,
+    "Image.asset": null,
+    "Image.network": null,
+    "FadeInImage": null,
+    "FadeInImage.assetNetwork": null,
+    "FadeInImage.memoryNetwork": null,
+    "Tab": "icon"
+	},
+
+	"CUSTOM_WIDGETS": {
+
+	"Scaffold": {"appBar": "AppBar"},
+    "AppBar": {},
+    "MaterialApp": {}
+	},
+
+	"LIST_WIDGETS": { 
+
+    "Column": "children",
+    "Row": "children",
+    "ListView": "children",
+    "TabBar": "tabs",
+    "TabBarView": "children"
+	}
+}
